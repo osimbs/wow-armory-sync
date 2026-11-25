@@ -1,0 +1,261 @@
+{
+ "syncedAt": 1795627320364,
+ "characters": {
+  "osimbs-retail": {
+   "name": "Osimbs",
+   "level": 90,
+   "xp": 0,
+   "race": "Human",
+   "class": "Paladin",
+   "spec": "Retribution",
+   "realm": "Icecrown",
+   "faction": "Alliance",
+   "ilvlAvg": 249,
+   "ilvlEquipped": 249,
+   "lastLogin": 1794860267000,
+   "gear": [
+    {
+     "slot": "Head",
+     "name": "Ophidian General's Crown",
+     "quality": "Uncommon",
+     "ilvl": 256
+    },
+    {
+     "slot": "Neck",
+     "name": "Choker of Anger",
+     "quality": "Uncommon",
+     "ilvl": 256
+    },
+    {
+     "slot": "Shoulders",
+     "name": "Spaulders of the Sacrificer",
+     "quality": "Uncommon",
+     "ilvl": 256
+    },
+    {
+     "slot": "Shirt",
+     "name": "Red Swashbuckler's Shirt",
+     "quality": "Uncommon",
+     "ilvl": 1
+    },
+    {
+     "slot": "Chest",
+     "name": "Crypt Cleanser Cuirass",
+     "quality": "Uncommon",
+     "ilvl": 256
+    },
+    {
+     "slot": "Waist",
+     "name": "Tomb-Sealed Clasp",
+     "quality": "Rare",
+     "ilvl": 263
+    },
+    {
+     "slot": "Legs",
+     "name": "Venom-Cursed Bear's Greaves",
+     "quality": "Epic",
+     "ilvl": 285
+    },
+    {
+     "slot": "Feet",
+     "name": "Faithleaper's Greaves",
+     "quality": "Uncommon",
+     "ilvl": 256
+    },
+    {
+     "slot": "Wrist",
+     "name": "Voidbreaker's Armguards",
+     "quality": "Uncommon",
+     "ilvl": 214
+    },
+    {
+     "slot": "Hands",
+     "name": "Fangsmasher Crushers",
+     "quality": "Uncommon",
+     "ilvl": 256
+    },
+    {
+     "slot": "Ring 1",
+     "name": "Preyseeker's Circle",
+     "quality": "Epic",
+     "ilvl": 233
+    },
+    {
+     "slot": "Ring 2",
+     "name": "Voidbreaker's Band",
+     "quality": "Rare",
+     "ilvl": 220
+    },
+    {
+     "slot": "Trinket 1",
+     "name": "Breath of Jan'alai",
+     "quality": "Rare",
+     "ilvl": 263
+    },
+    {
+     "slot": "Trinket 2",
+     "name": "Sealed Chaos Urn",
+     "quality": "Rare",
+     "ilvl": 220
+    },
+    {
+     "slot": "Back",
+     "name": "Voidbreaker's Wrap",
+     "quality": "Epic",
+     "ilvl": 250
+    },
+    {
+     "slot": "Main Hand",
+     "name": "Ancient Amani Greataxe",
+     "quality": "Uncommon",
+     "ilvl": 256
+    },
+    {
+     "slot": "Tabard",
+     "name": "Renowned Guild Tabard",
+     "quality": "Epic",
+     "ilvl": 1
+    }
+   ],
+   "professions": [
+    {
+     "name": "Blacksmithing",
+     "skill": 56,
+     "max": 100,
+     "tier": "Midnight Blacksmithing",
+     "secondary": false
+    },
+    {
+     "name": "Mining",
+     "skill": 50,
+     "max": 100,
+     "tier": "Midnight Mining",
+     "secondary": false
+    },
+    {
+     "name": "Archaeology",
+     "skill": 1,
+     "max": 700,
+     "tier": null,
+     "secondary": true
+    },
+    {
+     "name": "Cooking",
+     "skill": 41,
+     "max": 100,
+     "tier": "Midnight Cooking",
+     "secondary": true
+    },
+    {
+     "name": "Fishing",
+     "skill": 33,
+     "max": 300,
+     "tier": "Midnight Fishing",
+     "secondary": true
+    }
+   ]
+  },
+  "osimbs-osimbs": {
+   "name": "Osimbs",
+   "surname": "Osimbs",
+   "level": 12,
+   "xp": 8624,
+   "race": "Dwarf",
+   "class": "Paladin",
+   "faction": "Alliance",
+   "lastLogin": 1795555157000,
+   "gear": [
+    {
+     "slot": "Shirt",
+     "name": "Squire's Shirt",
+     "quality": "Common",
+     "ilvl": null
+    },
+    {
+     "slot": "Chest",
+     "name": "Rough Copper Vest",
+     "quality": "Uncommon",
+     "ilvl": null
+    },
+    {
+     "slot": "Waist",
+     "name": "Infantry Belt",
+     "quality": "Common",
+     "ilvl": null
+    },
+    {
+     "slot": "Legs",
+     "name": "Copper Chain Pants",
+     "quality": "Uncommon",
+     "ilvl": null
+    },
+    {
+     "slot": "Feet",
+     "name": "Copper Chain Boots",
+     "quality": "Uncommon",
+     "ilvl": null
+    },
+    {
+     "slot": "Wrist",
+     "name": "Ironwrought Bracers",
+     "quality": "Common",
+     "ilvl": null
+    },
+    {
+     "slot": "Hands",
+     "name": "Infantry Gauntlets",
+     "quality": "Common",
+     "ilvl": null
+    },
+    {
+     "slot": "Ring 1",
+     "name": "Avala's Binding",
+     "quality": "Common",
+     "ilvl": null
+    },
+    {
+     "slot": "Back",
+     "name": "Cadet Cloak",
+     "quality": "Common",
+     "ilvl": null
+    },
+    {
+     "slot": "Main Hand",
+     "name": "Coldridge Hammer",
+     "quality": "Uncommon",
+     "ilvl": null
+    }
+   ],
+   "professions": [
+    {
+     "name": "Mining",
+     "skill": 73,
+     "max": 150,
+     "tier": "Mining",
+     "secondary": false
+    },
+    {
+     "name": "Blacksmithing",
+     "skill": 56,
+     "max": 75,
+     "tier": "Blacksmithing",
+     "secondary": false
+    },
+    {
+     "name": "Cooking",
+     "skill": 10,
+     "max": 75,
+     "tier": "Cooking",
+     "secondary": true
+    },
+    {
+     "name": "Fishing",
+     "skill": 21,
+     "max": 75,
+     "tier": "Fishing",
+     "secondary": true
+    }
+   ]
+  }
+ }
+}
