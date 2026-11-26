@@ -1,5 +1,5 @@
 {
- "syncedAt": 1795627320364,
+ "syncedAt": 1795657611477,
  "characters": {
   "osimbs-retail": {
    "name": "Osimbs",
@@ -10,9 +10,9 @@
    "spec": "Retribution",
    "realm": "Icecrown",
    "faction": "Alliance",
-   "ilvlAvg": 249,
-   "ilvlEquipped": 249,
-   "lastLogin": 1794860267000,
+   "ilvlAvg": 267,
+   "ilvlEquipped": 267,
+   "lastLogin": 1795643821000,
    "gear": [
     {
      "slot": "Head",
@@ -22,9 +22,9 @@
     },
     {
      "slot": "Neck",
-     "name": "Choker of Anger",
-     "quality": "Uncommon",
-     "ilvl": 256
+     "name": "Serpentine Talisman",
+     "quality": "Rare",
+     "ilvl": 276
     },
     {
      "slot": "Shoulders",
@@ -40,9 +40,9 @@
     },
     {
      "slot": "Chest",
-     "name": "Crypt Cleanser Cuirass",
-     "quality": "Uncommon",
-     "ilvl": 256
+     "name": "Aged Interwoven Scaleplate",
+     "quality": "Rare",
+     "ilvl": 259
     },
     {
      "slot": "Waist",
@@ -58,9 +58,9 @@
     },
     {
      "slot": "Feet",
-     "name": "Faithleaper's Greaves",
-     "quality": "Uncommon",
-     "ilvl": 256
+     "name": "Fetid Reliquary Greaves",
+     "quality": "Epic",
+     "ilvl": 292
     },
     {
      "slot": "Wrist",
@@ -70,21 +70,21 @@
     },
     {
      "slot": "Hands",
-     "name": "Fangsmasher Crushers",
-     "quality": "Uncommon",
-     "ilvl": 256
+     "name": "Veilshroud Gauntlets",
+     "quality": "Epic",
+     "ilvl": 292
     },
     {
      "slot": "Ring 1",
-     "name": "Preyseeker's Circle",
+     "name": "Bloodmark Signet",
      "quality": "Epic",
-     "ilvl": 233
+     "ilvl": 305
     },
     {
      "slot": "Ring 2",
-     "name": "Voidbreaker's Band",
-     "quality": "Rare",
-     "ilvl": 220
+     "name": "Ula'tek's Bind",
+     "quality": "Epic",
+     "ilvl": 292
     },
     {
      "slot": "Trinket 1",
@@ -94,9 +94,9 @@
     },
     {
      "slot": "Trinket 2",
-     "name": "Sealed Chaos Urn",
+     "name": "Holy Retributor's Order",
      "quality": "Rare",
-     "ilvl": 220
+     "ilvl": 266
     },
     {
      "slot": "Back",
@@ -127,7 +127,7 @@
     },
     {
      "name": "Mining",
-     "skill": 50,
+     "skill": 57,
      "max": 100,
      "tier": "Midnight Mining",
      "secondary": false
